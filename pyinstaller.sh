@@ -1,1 +1,1 @@
-pyinstaller -w --onefile -n DBManager main.py
+pyinstaller -w --onefile -n program main.py
