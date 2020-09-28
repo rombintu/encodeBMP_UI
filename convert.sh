@@ -1,0 +1,1 @@
+pyuic5 encodeForm.ui -o form.py
